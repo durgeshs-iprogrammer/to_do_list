@@ -1,0 +1,23 @@
+
+.Button {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+
+  }
+  
+  .Input {
+    padding: 10px;
+  }
+  
+  .Error {
+    border: 2px solid red;
+  }
+  
+  .ErrorMessage {
+    color: red;
+    font-size: 20px;
+    margin-top: 5px;
+  }
+  
